@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CloudComputingProvider.Api.props" />
+</Project>

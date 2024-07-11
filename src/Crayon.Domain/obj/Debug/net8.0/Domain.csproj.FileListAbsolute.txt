@@ -1,0 +1,11 @@
+/Users/ruimagro/git/crayon/CrayonSolution/src/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/ruimagro/git/crayon/CrayonSolution/src/Domain/bin/Debug/net8.0/Domain.dll
+/Users/ruimagro/git/crayon/CrayonSolution/src/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/ruimagro/git/crayon/CrayonSolution/src/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruimagro/git/crayon/CrayonSolution/src/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/ruimagro/git/crayon/CrayonSolution/src/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/ruimagro/git/crayon/CrayonSolution/src/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/ruimagro/git/crayon/CrayonSolution/src/Domain/obj/Debug/net8.0/Domain.dll
+/Users/ruimagro/git/crayon/CrayonSolution/src/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/ruimagro/git/crayon/CrayonSolution/src/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/ruimagro/git/crayon/CrayonSolution/src/Domain/obj/Debug/net8.0/ref/Domain.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RvpWDKfQ3xELMFUhuESeeAUGWVxZhM0gMtGEU+gqShc=",
+  "Source": "Crayon.Api",
+  "BasePath": "_content/Crayon.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

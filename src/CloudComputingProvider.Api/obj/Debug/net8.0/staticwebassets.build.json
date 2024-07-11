@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fOzXbeBlk97/RhdY+imz/SSzAyScVSyWH3bW4zidCW4=",
+  "Source": "CloudComputingProvider.Api",
+  "BasePath": "_content/CloudComputingProvider.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

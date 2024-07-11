@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rc9HfraBUj4=",
+  "success": true,
+  "projectFilePath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Api.Contracts/Crayon.Api.Contracts.csproj",
+  "expectedPackageFiles": [
+    "/Users/ruimagro/.nuget/packages/microsoft.netcore.app.ref/8.0.5/microsoft.netcore.app.ref.8.0.5.nupkg.sha512",
+    "/Users/ruimagro/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
