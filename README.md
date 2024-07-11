@@ -26,10 +26,12 @@ clone the repo
 docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=SecretPassword123\!" -p 1433:1433 --name crayon -d mcr.microsoft.com/mssql/server:2022-latest
 
 ## DotNet
-## dotnet ef migrations add InitialCreate -p src/Crayon.Repository.Infrastructure -s src/Crayon.Api
-
 dotnet ef database update -p src/Crayon.Repository.Infrastructure -s src/Crayon.Api
 
 dotnet run -p src/Crayon.Api
 dotnet run -p src/CloudComputingProvider.Api
+
+// if you want to re-run migrations delete Migrations folder first
+// dotnet ef migrations add InitialCreate -p src/Crayon.Repository.Infrastructure -s src/Crayon.Api
+// then run the database update
 

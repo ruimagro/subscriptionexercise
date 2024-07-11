@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nULxA0RqbwA=",
+  "dgSpecHash": "S4iWszL29R0=",
   "success": true,
-  "projectFilePath": "/Users/ruimagro/git/crayon/CrayonSolution/src/CloudComputingProvider.Api.Contracts/CloudComputingProvider.Api.Contracts.csproj",
+  "projectFilePath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/CloudComputingProvider.Api.Contracts/CloudComputingProvider.Api.Contracts.csproj",
   "expectedPackageFiles": [
     "/Users/ruimagro/.nuget/packages/microsoft.netcore.app.ref/8.0.5/microsoft.netcore.app.ref.8.0.5.nupkg.sha512",
     "/Users/ruimagro/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"

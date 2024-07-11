@@ -4640,11 +4640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Api/Crayon.Api.csproj",
+      "projectUniqueName": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Api/Crayon.Api.csproj",
       "projectName": "Crayon.Api",
-      "projectPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Api/Crayon.Api.csproj",
+      "projectPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Api/Crayon.Api.csproj",
       "packagesPath": "/Users/ruimagro/.nuget/packages/",
-      "outputPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Api/obj/",
+      "outputPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ruimagro/.nuget/NuGet/NuGet.Config"
@@ -4659,17 +4659,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/ruimagro/git/crayon/CrayonSolution/src/CloudComputingProvider.Api.Contracts/CloudComputingProvider.Api.Contracts.csproj": {
-              "projectPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/CloudComputingProvider.Api.Contracts/CloudComputingProvider.Api.Contracts.csproj"
+            "/Users/ruimagro/git/crayon/subscriptionexercise/src/CloudComputingProvider.Api.Contracts/CloudComputingProvider.Api.Contracts.csproj": {
+              "projectPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/CloudComputingProvider.Api.Contracts/CloudComputingProvider.Api.Contracts.csproj"
             },
-            "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Api.Contracts/Crayon.Api.Contracts.csproj": {
-              "projectPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Api.Contracts/Crayon.Api.Contracts.csproj"
+            "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Api.Contracts/Crayon.Api.Contracts.csproj": {
+              "projectPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Api.Contracts/Crayon.Api.Contracts.csproj"
             },
-            "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Application/Crayon.Application.csproj": {
-              "projectPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Application/Crayon.Application.csproj"
+            "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Application/Crayon.Application.csproj": {
+              "projectPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Application/Crayon.Application.csproj"
             },
-            "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Repository.Infrastructure/Crayon.Repository.Infrastructure.csproj": {
-              "projectPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Repository.Infrastructure/Crayon.Repository.Infrastructure.csproj"
+            "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Repository.Infrastructure/Crayon.Repository.Infrastructure.csproj": {
+              "projectPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Repository.Infrastructure/Crayon.Repository.Infrastructure.csproj"
             }
           }
         }

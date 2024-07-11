@@ -481,11 +481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ruimagro/git/crayon/CrayonSolution/src/CloudComputingProvider.Api/CloudComputingProvider.Api.csproj",
+      "projectUniqueName": "/Users/ruimagro/git/crayon/subscriptionexercise/src/CloudComputingProvider.Api/CloudComputingProvider.Api.csproj",
       "projectName": "CloudComputingProvider.Api",
-      "projectPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/CloudComputingProvider.Api/CloudComputingProvider.Api.csproj",
+      "projectPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/CloudComputingProvider.Api/CloudComputingProvider.Api.csproj",
       "packagesPath": "/Users/ruimagro/.nuget/packages/",
-      "outputPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/CloudComputingProvider.Api/obj/",
+      "outputPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/CloudComputingProvider.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ruimagro/.nuget/NuGet/NuGet.Config"
@@ -500,8 +500,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/ruimagro/git/crayon/CrayonSolution/src/CloudComputingProvider.Api.Contracts/CloudComputingProvider.Api.Contracts.csproj": {
-              "projectPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/CloudComputingProvider.Api.Contracts/CloudComputingProvider.Api.Contracts.csproj"
+            "/Users/ruimagro/git/crayon/subscriptionexercise/src/CloudComputingProvider.Api.Contracts/CloudComputingProvider.Api.Contracts.csproj": {
+              "projectPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/CloudComputingProvider.Api.Contracts/CloudComputingProvider.Api.Contracts.csproj"
             }
           }
         }

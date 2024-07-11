@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Repository.Infrastructure/Crayon.Repository.Infrastructure.csproj": {}
+    "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Repository.Infrastructure/Crayon.Repository.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Application/Crayon.Application.csproj": {
+    "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Application/Crayon.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Application/Crayon.Application.csproj",
+        "projectUniqueName": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Application/Crayon.Application.csproj",
         "projectName": "Crayon.Application",
-        "projectPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Application/Crayon.Application.csproj",
+        "projectPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Application/Crayon.Application.csproj",
         "packagesPath": "/Users/ruimagro/.nuget/packages/",
-        "outputPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Application/obj/",
+        "outputPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ruimagro/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Domain/Crayon.Domain.csproj": {
-                "projectPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Domain/Crayon.Domain.csproj"
+              "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Domain/Crayon.Domain.csproj": {
+                "projectPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Domain/Crayon.Domain.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Domain/Crayon.Domain.csproj": {
+    "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Domain/Crayon.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Domain/Crayon.Domain.csproj",
+        "projectUniqueName": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Domain/Crayon.Domain.csproj",
         "projectName": "Crayon.Domain",
-        "projectPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Domain/Crayon.Domain.csproj",
+        "projectPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Domain/Crayon.Domain.csproj",
         "packagesPath": "/Users/ruimagro/.nuget/packages/",
-        "outputPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Domain/obj/",
+        "outputPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ruimagro/.nuget/NuGet/NuGet.Config"
@@ -154,14 +154,14 @@
         }
       }
     },
-    "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Repository.Infrastructure/Crayon.Repository.Infrastructure.csproj": {
+    "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Repository.Infrastructure/Crayon.Repository.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Repository.Infrastructure/Crayon.Repository.Infrastructure.csproj",
+        "projectUniqueName": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Repository.Infrastructure/Crayon.Repository.Infrastructure.csproj",
         "projectName": "Crayon.Repository.Infrastructure",
-        "projectPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Repository.Infrastructure/Crayon.Repository.Infrastructure.csproj",
+        "projectPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Repository.Infrastructure/Crayon.Repository.Infrastructure.csproj",
         "packagesPath": "/Users/ruimagro/.nuget/packages/",
-        "outputPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Repository.Infrastructure/obj/",
+        "outputPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Repository.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ruimagro/.nuget/NuGet/NuGet.Config"
@@ -176,8 +176,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Application/Crayon.Application.csproj": {
-                "projectPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Application/Crayon.Application.csproj"
+              "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Application/Crayon.Application.csproj": {
+                "projectPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Application/Crayon.Application.csproj"
               }
             }
           }

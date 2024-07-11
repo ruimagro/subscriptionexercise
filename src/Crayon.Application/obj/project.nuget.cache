@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xDtFIvvUgPw=",
+  "dgSpecHash": "DgdbytT/Vp4=",
   "success": true,
-  "projectFilePath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Application/Crayon.Application.csproj",
+  "projectFilePath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Application/Crayon.Application.csproj",
   "expectedPackageFiles": [
     "/Users/ruimagro/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
     "/Users/ruimagro/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Api.Contracts/Crayon.Api.Contracts.csproj": {}
+    "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Api.Contracts/Crayon.Api.Contracts.csproj": {}
   },
   "projects": {
-    "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Api.Contracts/Crayon.Api.Contracts.csproj": {
+    "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Api.Contracts/Crayon.Api.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Api.Contracts/Crayon.Api.Contracts.csproj",
+        "projectUniqueName": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Api.Contracts/Crayon.Api.Contracts.csproj",
         "projectName": "Crayon.Api.Contracts",
-        "projectPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Api.Contracts/Crayon.Api.Contracts.csproj",
+        "projectPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Api.Contracts/Crayon.Api.Contracts.csproj",
         "packagesPath": "/Users/ruimagro/.nuget/packages/",
-        "outputPath": "/Users/ruimagro/git/crayon/CrayonSolution/src/Crayon.Api.Contracts/obj/",
+        "outputPath": "/Users/ruimagro/git/crayon/subscriptionexercise/src/Crayon.Api.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ruimagro/.nuget/NuGet/NuGet.Config"

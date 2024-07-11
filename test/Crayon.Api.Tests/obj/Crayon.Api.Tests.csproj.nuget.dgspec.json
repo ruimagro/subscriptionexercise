@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ruimagro/git/crayon/CrayonSolution/test/Crayon.Api.Tests/Crayon.Api.Tests.csproj": {}
+    "/Users/ruimagro/git/crayon/subscriptionexercise/test/Crayon.Api.Tests/Crayon.Api.Tests.csproj": {}
   },
   "projects": {
-    "/Users/ruimagro/git/crayon/CrayonSolution/test/Crayon.Api.Tests/Crayon.Api.Tests.csproj": {
+    "/Users/ruimagro/git/crayon/subscriptionexercise/test/Crayon.Api.Tests/Crayon.Api.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ruimagro/git/crayon/CrayonSolution/test/Crayon.Api.Tests/Crayon.Api.Tests.csproj",
+        "projectUniqueName": "/Users/ruimagro/git/crayon/subscriptionexercise/test/Crayon.Api.Tests/Crayon.Api.Tests.csproj",
         "projectName": "Crayon.Api.Tests",
-        "projectPath": "/Users/ruimagro/git/crayon/CrayonSolution/test/Crayon.Api.Tests/Crayon.Api.Tests.csproj",
+        "projectPath": "/Users/ruimagro/git/crayon/subscriptionexercise/test/Crayon.Api.Tests/Crayon.Api.Tests.csproj",
         "packagesPath": "/Users/ruimagro/.nuget/packages/",
-        "outputPath": "/Users/ruimagro/git/crayon/CrayonSolution/test/Crayon.Api.Tests/obj/",
+        "outputPath": "/Users/ruimagro/git/crayon/subscriptionexercise/test/Crayon.Api.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ruimagro/.nuget/NuGet/NuGet.Config"
