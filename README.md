@@ -7,6 +7,7 @@ Swagger is enabled, you only need to access the Crayon.Api for all the features.
 
 While a lot of effort was done to make the app feel "production" ready.. there is still a lot that needed to be done
 
+- Authentication for Customer
 - FluentValidation
 - IOption usage for better configuration
 - Better error handling
