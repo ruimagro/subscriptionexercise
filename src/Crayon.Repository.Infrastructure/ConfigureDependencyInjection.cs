@@ -14,7 +14,7 @@ public static class ConfigureDependencyInjection
                                  Data Source=localhost;
                                  Initial Catalog=CrayonDB;
                                  User Id=sa;
-                                 Password=SecretPassword123!;
+                                 Password=SecretPassword123;
                                  TrustServerCertificate=True;
                                  """));
         
