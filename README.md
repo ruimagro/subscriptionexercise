@@ -1,5 +1,10 @@
 # subscriptionexercise
-Exercise 2
+
+Project Architecture
+
+CC API (software vendor) <--> [[ Crayon API (license provider) ]] <--> Domain (entities), Infrastructure (repository), Application layer (business logic)
+
+* CC API is hardcoded MiminalAPI - it mimics an external vendor API.
 
 # Notes
 
